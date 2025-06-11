@@ -6,14 +6,5 @@
 		{
 			"path": "../llc"
 		}
-		{
-			"path": "../nlc"
-		},
-		{
-			"path": "../nlc_common"
-		},
-		{
-			"path": "../realm.js"
-		},
 	]
 }
